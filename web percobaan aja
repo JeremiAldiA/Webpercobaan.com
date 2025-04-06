@@ -4,4 +4,5 @@ echo "  Hello world? welcome to my website" index.html
 git init
 git add index.html
 git comit -m " first comit"
+git remote add origin https://github.com/webpercobaan/webpercobaan.com.git
 git push -u origin master
