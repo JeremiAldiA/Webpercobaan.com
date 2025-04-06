@@ -4,3 +4,4 @@ echo "  Hello world? welcome to my website" index.html
 git init
 git add index.html
 git comit -m " first comit"
+git push -u origin master
